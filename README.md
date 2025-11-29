@@ -49,7 +49,6 @@
 
 ### 📊 Most used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuversespace&hide_progress=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 <!--
