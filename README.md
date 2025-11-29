@@ -47,9 +47,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajuversespace&show_icons=true&locale=en" alt="rajuversespace" /></p>
 
-### 📊 Stats
+### 📊 Most used Languages
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajuversespace&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuversespace&hide_progress=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 <!--
