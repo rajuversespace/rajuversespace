@@ -1,4 +1,5 @@
 <h1>  Pandurangaraju Raju </h1>
+<img width="1664" height="1248" alt="image" src="https://github.com/user-attachments/assets/670ad29b-f97f-4d97-8f7d-b8ccf7468583" />
 
 **`Digital Craftman (SRE/Developer/Creator)`**
 
