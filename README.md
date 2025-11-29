@@ -63,7 +63,7 @@
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/panduraju/" target="blank">
+<a href="www.linkedin.com/in/pandurangaraju" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <!-- <a href="https://www.instagram.com/mmaximus.soares/" target="blank">
