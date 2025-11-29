@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Raju</h1>
+<h1 align="center"> I'm Raju</h1>
 <h3 align="center">A passionate DevOps/backend developer from Japan</h3>
 
 - 🔭 I’m currently working on crypto **BlockChain**
