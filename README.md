@@ -1,11 +1,22 @@
-# <h1> ⚡ [SYSTEM_STATUS: OPERATIONAL] </h1>
+
 <h1> Pandurangaraju Raju </h1>
 <img width="1664" height="600" alt="image" src="https://github.com/user-attachments/assets/30b0002e-3bd6-4df0-bc8d-19f8aca94d5e" />
 
 **`(SRE / DevSecOps / Infrastructure Architect)`**
 
 ---
+# [SYSTEM_BOOT_SEQUENCE]: INITIALIZING CV_ENGINE v2.2026
+# [LOCATION]: Tokyo, JP
+# [UPTIME]: 10.0 Years (DevOps_Runtime: 8.0 Years)
 
+$ systemctl status digital-craftsman.service
+● digital-craftsman.service - Infrastructure Architect & SRE
+   Active: active (running) since 2016-01-01
+   Main PID: 1001 (DevOps)
+   Tasks: 10 (SRE, FinOps, Networking, AI_Ops)
+   Memory: 100% (Resilient & Robust Stack)
+
+$ ./run_lifecycle_loop.sh --detailed
 ### ## /etc/motd
 * **Uptime:** 10+ Years Professional Lifecycle (8 years focused on DevOps/SRE/FinOps).
 * **Location:** Tokyo, Japan (Currently Migrating to PR Instance 🇯🇵).
