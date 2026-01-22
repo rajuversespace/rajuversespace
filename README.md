@@ -1,71 +1,152 @@
-<h1>  Pandurangaraju Raju </h1>
+# <h1> ⚡ [SYSTEM_STATUS: OPERATIONAL] </h1>
+<h1> Pandurangaraju Raju </h1>
 <img width="1664" height="600" alt="image" src="https://github.com/user-attachments/assets/30b0002e-3bd6-4df0-bc8d-19f8aca94d5e" />
 
+**`(SRE / DevSecOps / Infrastructure Architect)`**
 
-**`Digital Craftman (SRE/Developer/Creator)`**
+---
 
-## About Me
-- I build, ship, and create/develop workflows tools.
-- Grew my development skills from best developers throw my experience.
-- Help mentor 50+ students cloud, tech skills, and AI.
+### ## /etc/motd
+* **Uptime:** 10+ Years Professional Lifecycle (8 years focused on DevOps/SRE/FinOps).
+* **Location:** Tokyo, Japan (Currently Migrating to PR Instance 🇯🇵).
+* **Mission:** Building resilient, "Default Deny" architectures for high-frequency data and blockchain systems.
+* **Impact:** Mentored 50+ students in Cloud, AI, and Technical Skills.
 
-## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,kubernetes,jenkins,gcp,cloudflare,rust,pytorch,figma&theme=light)](https://skillicons.dev)
+---
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
-<!-- <p align="left">
-      <a href="https://www.youtube.com/c/Rajuverse-craftman?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/Rajuverse-craftman">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p> -->
+### ## [SECURITY_GROUP: DEFENSE_&_ADVERSARIAL_INTEL]
+> **Adversarial Mindset:** I build by thinking like an attacker to defend like an architect.
 
+#### **Intrusion Defense & Security Orchestration**
+* **Active Defense:** Tuning **Suricata** and **Snort** (IDS/IPS) for real-time traffic analysis and automated threat blocking.
+* **Secret Governance:** Hardening **HashiCorp Vault Enterprise** (AppRole/TLS) to eliminate "Secret Zero" vulnerabilities.
+* **Identity Management:** Implementing **Cloudflare Access** Zero Trust tunnels to replace traditional VPNs, enforcing MFA and strict device posture.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajuversespace&label=Profile%20views&color=0e75b6&style=flat" alt="rajuversespace" /> </p>
+#### **Threat Modeling & Mitigation**
+* **Reconnaissance Countermeasures:** Designing infrastructure to minimize public attack surfaces via DNS obfuscation and port knocking.
+* **Lateral Movement Prevention:** Engineering strict **Kubernetes Network Policies** and micro-segmentation to isolate potential compromises.
+* **Vulnerability Management:** Integrating **Trivy** and **Snyk** into CI/CD pipelines for automated dependency and container scanning.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajuversespace" alt="rajuversespace" /></a> </p>
+---
 
-- 🔭 I’m currently working on crypto **BlockChain**
+### ## [SKILL_STACK: THE_TOOLBOX]
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,kubernetes,jenkins,gcp,cloudflare,rust,pytorch,mongodb,postgres,linux&theme=light)](https://skillicons.dev)
 
-- 👯 I’m looking to collaborate on **Open source trading bots**
+* **Infrastructure as Code:** `Terraform`, `Ansible`, `CloudFormation`.
+* **Data & Blockchain:** `MongoDB` (High-frequency ingestion), `S3/Parquet`, `Bitcoin Cash Node` (v28.0.1).
+* **Observability:** `Prometheus`, `Grafana`, `ELK Stack`, `Datadog`.
+* **Languages:** `Rust`, `Go`, `Python`, `TypeScript`, `Bash`.
 
-- 🤝 I’m looking for help with **NextWork**
+---
 
-- 📫 How to reach me **rajuversespace@gmail.com**
+### ## [CURRENT_SERVICES: ACTIVE_TASKS]
+* 🔭 **Blockchain:** Scaling and securing high-performance crypto nodes and social wallet specs.
+* 👯 **Open Source:** Collaborating on **Rust-based trading bots** and contributing to `interactive-inputs`.
+* 🤝 **Networking:** Deep-diving into advanced VPC architecture and self-hosted public DNS features.
+* 📝 **Crafting:** Developing custom **Notion** "Total Recall" systems for cybersecurity study.
 
+---
 
-<!-- <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com" height="30" width="40" /></a>
-</p> -->
+### ## [METRICS: SYSTEM_STATS]
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rajuversespace&label=Profile%20views&color=0e75b6&style=flat" alt="rajuversespace" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajuversespace&theme=flat" alt="rajuversespace" />
+  </a> 
+</p>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-<!-- <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p> -->
+---
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajuversespace&show_icons=true&locale=en" alt="rajuversespace" /></p> -->
+### ## [API_ENDPOINT: CONNECT]
+<p align="left">
+  <a href="https://www.linkedin.com/in/pandurangaraju" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rajuversespace@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<!--### 📊 Most used Languages-->
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)-->
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-
-
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/pandurangaraju" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<!-- <a href="https://www.instagram.com/mmaximus.soares/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a> -->
+---
+### ## [HEALTH_CHECK]
+```json
+{
+  "status": "SECURE",
+  "threat_level": "LOW",
+  "encryption": "AES-256-GCM",
+  "firewall_rules": "STRICT",
+  "open_to_work": true,
+  "deployment_history": [
+    {
+      "node": "Crypto & AI Cloud",
+      "status": "active",
+      "achievements": [
+        "Architected JIT market data fetching for 40k records/40min to stabilize MongoDB M20 CPU usage.",
+        "Integrated AI models into monitoring feedback loops for predictive anomaly detection.",
+        "Engineered FinOps storage strategy: Migrated historical data to S3, reducing costs by 59%.",
+        "Created automation framework for DB management with ByteBase",
+        "Secured environment from attack by creating a realtime cache and in-memory VennDB"
+      ]
+    },
+    {
+      "node": "Ericsson (Telecom R&D)",
+      "status": "completed",
+      "achievements": [
+        "Collaborative R&D for carrier-grade on-prem infrastructure.",
+        "Standardized test automation frameworks for massive-scale telecom deployments.",
+        "Created on-prem solutions for infra and deployment with github integration tool",
+        "Validation with RFC rules to parse input bundle with network configurations"
+      ]
+    },
+    {
+      "node": "Rakuten (Telecom Infrastructure)",
+      "status": "completed",
+      "achievements": [
+        "Managed large-scale physical-to-virtual abstraction for national 4G/5G networks.",
+        "Established bedrock networking foundation in high-availability bare metal environments.",
+        "Enhanced CICD automation with chatBot service to stable environment."
+      ]
+    }
+  ],
+  "system_lifecycle": {
+    "CODE": {
+      "focus": "Developing high-performance, resilient logic.",
+      "stack": ["Rust", "Java (Spring)", "Node.js (pnpm)", "Go"],
+      "contributions": "Designed 'Self-Hosted Public DNS' for boasiHQ/interactive-inputs."
+    },
+    "BUILD": {
+      "focus": "Automating the path to production.",
+      "engines": ["GitHub Actions", "Jenkins", "Kubernetes", "ArgoCD", "FluxCD"],
+      "artifacts": "Custom pipelines for Java JARs, NPM packages, and Rust binaries."
+    },
+    "TEST": {
+      "focus": "Ensuring carrier-grade stability.",
+      "experience": "Ericsson: Telecom-grade test automation and collaborative R&D.",
+      "validation": "Unit/Integration testing for Go-based open source tools."
+    },
+    "DEPLOY": {
+      "focus": "Multi-cloud and On-Prem orchestration.",
+      "targets": ["AWS", "Cloudflare (Workers/Pages)", "Vercel", "Rakuten On-Prem"],
+      "orchestration": ["ArgoCD", "Terraform", "BCHN Node Upgrades"]
+    },
+    "MONITOR": {
+      "focus": "AI-driven observability and feedback loops.",
+      "intelligence": ["Beats AI", "AI model monitoring feedbacks"],
+      "profiling": "CPU/Memory analysis for high-freq MongoDB ingestion."
+    },
+    "BUG_FIX_REPEAT": {
+      "focus": "Continuous optimization and FinOps.",
+      "solutions": [
+        "JIT Data Fetching to resolve 40k record/40min CPU spikes.",
+        "S3/Parquet migration to fix high storage costs and latency.",
+        "Refining HashiCorp Vault auth methods for zero-trust security."
+      ]
+    }
+  },
+  "impact_summary": {
+    "resiliency": "100% via robust/redundant stack design",
+    "deployment_speed": "Optimized Java/NPM pipelines by reducing CI/CD latency",
+    "finops": "Significant cost reduction via S3/Parquet tiered storage",
+    "networking": "Expert-level protocol knowledge with active OS contributions"
+  }
+}
